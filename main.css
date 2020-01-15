@@ -40,3 +40,15 @@ body {
     color: white;
     background-color: #111;
   }
+  
+  /* FOOTER */
+  
+  footer {
+    width: 100%;
+    color: #111;
+    background-color: #eee;
+    padding: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+  }
